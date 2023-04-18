@@ -1,1 +1,1 @@
-# foleytheattic.gitub.io
+# foleytheattic.github.io
